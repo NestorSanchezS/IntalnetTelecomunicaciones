@@ -8,7 +8,7 @@ export default function NuestraEmpresa() {
       <div className={styles.container}>
         <main className={styles.main}>
           <h1 className={styles.title}>
-            Welcome to <Link href="/">Inicio</Link>
+            Welcome to <Link href="/">Regulacion</Link>
           </h1>
 
           <p className={styles.description}>
