@@ -4,8 +4,8 @@ import styles from "../styles/Home.module.css";
 
 export default function NuestraEmpresa() {
   return (
-    <AppPage>
-      <div className={styles.container}>
+    <AppPage title="Nuestra Empresa | Intalnet">
+      <div className="mt-200">
         <main className={styles.main}>
           <h1 className={styles.title}>
             Welcome to <Link href="/">Inicio</Link>

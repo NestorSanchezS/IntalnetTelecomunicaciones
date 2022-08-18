@@ -4,7 +4,7 @@ import styles from "../styles/Home.module.css";
 
 export default function NuestraEmpresa() {
   return (
-    <AppPage>
+    <AppPage title="Internet sano | Intalnet">
       <div className={styles.container}>
         <main className={styles.main}>
           <h1 className={styles.title}>
